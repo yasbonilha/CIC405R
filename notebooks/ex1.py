@@ -12,13 +12,6 @@ print("penguins shape:", penguins.shape)
 penguins.head()
 
 '''
-INTEGRANTES:
-Íris de Campos Melero - 23.01109-2
-Guilherme
-Lucas Kenzo
-Vitor
-Yasmin Pacheco Gil Bonilha - 23.01425-3
-
 Saída:
 
 Python: 3.14.0
